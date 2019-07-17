@@ -75,4 +75,4 @@ const givenInfo = [
     return newCandidates;
   };
 
-  console.log(calculateWins(candidates));
+ calculateWins(candidates)
